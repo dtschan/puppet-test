@@ -1,1 +1,4 @@
-notice('Branch testing')
+class test {
+  notice('Branch testing')
+}
+
